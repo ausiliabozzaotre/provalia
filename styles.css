@@ -1,0 +1,32 @@
+p {
+    color:rgb(193, 119, 23);
+    font-weight: 600;
+    font-size: 85.5px;
+}
+
+#stefano{
+    color:rgb(49, 103, 44);
+    font-size:xx-large;
+    font-weight:900;
+    padding:100px 100px;
+    border:20px dashed rgb(142, 62, 62);
+    margin:200px;
+    background-color: cadetblue;
+}
+
+.mangiato{
+    color: color-mix(in srgb, blue 50%, red 50%)
+
+}
+
+#il{
+    color:blueviolet;
+    font: size 200px;
+    border-radius: 5cm;
+    border-color: aquamarine;
+    block-size: 5cm;
+    font-size: larger;
+
+
+}
+
